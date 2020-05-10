@@ -1,0 +1,24 @@
+@import url('./__title/gina__title.css');
+@import url('./__desc/gina__desc.css');
+@import url('./__link/gina__link.css');
+
+
+.gina {
+    width: 1160px;
+    min-height: 692px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-image: url('../../Image/gina.png');
+    background-size: cover;
+    position: relative;
+}
+/*
+.gina:hover {
+    transform:scale(1.005) ;
+    box-shadow:0 0 70px white;
+    transition: transform 0.5s linear;
+    transition: box-shadow 0.5s linear;
+}
+*/

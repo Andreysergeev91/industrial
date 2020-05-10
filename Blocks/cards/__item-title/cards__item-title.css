@@ -1,0 +1,9 @@
+.cards__item-title {
+    font-family: 'Overpass', Arial, sans-serif;
+    font-size: 55px;
+    line-height: normal;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 900;
+    margin: 64px 0 13px 0;
+}

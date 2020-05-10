@@ -1,0 +1,12 @@
+.cards__item_theme_violet {
+    background-color: #7778c6;
+    align-items: flex-start;
+    justify-content: flex-start;
+    background-image: url('../../../../Image/camera.png');
+    background-repeat: no-repeat;
+    background-position: left -950% bottom -25%;
+    background-size: initial;
+    padding-left: 30px;
+    text-align: left;
+
+}

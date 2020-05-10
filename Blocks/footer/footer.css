@@ -1,0 +1,13 @@
+@import url('./__link/footer__link.css');
+@import url('./__link-container/footer__link-container.css');
+@import url('./__author/footer__author.css');
+
+.footer {
+    width: 1160px;
+    min-height: 135px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
