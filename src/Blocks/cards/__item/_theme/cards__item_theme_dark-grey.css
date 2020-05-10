@@ -1,0 +1,10 @@
+ .cards__item_theme_dark-grey {
+    background-color:#557581 ;
+    justify-content: flex-start;
+    align-items: center;
+    background-image: url('../../../../Image/p9.png');
+   background-position:left 79% top 560%;
+   background-repeat: no-repeat;
+   background-size: initial;
+   padding-top: 255px;
+ }

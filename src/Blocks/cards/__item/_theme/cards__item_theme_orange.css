@@ -1,0 +1,11 @@
+ .cards__item_theme_orange {
+    background-color:#e97864;
+    justify-content: flex-start;
+    align-items: center;
+    background-image: url('../../../../Image/molekule.png');
+   background-position:left 50% top -110%;
+   background-repeat: no-repeat;
+   background-size: initial;
+   padding-top: 65px;
+     
+ }

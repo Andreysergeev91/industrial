@@ -1,0 +1,13 @@
+.form__button {
+    width: 25px;
+    height: 25px;
+    border: 0;
+    background-color:transparent;
+    border-bottom: 1px solid #93a3ab;
+    padding: 0;
+}
+.form__button::after  {
+    content: url('../../../Image/loupe_icon-icons.com_58875.png');
+    background-size: contain;
+    
+}

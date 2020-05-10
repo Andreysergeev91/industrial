@@ -1,0 +1,10 @@
+@import url('./__button/form__button.css');
+@import url('./__search/form__search.css');
+
+.form {
+    width: 180px;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-start;
+    margin: 82px 0 70px 0;
+}

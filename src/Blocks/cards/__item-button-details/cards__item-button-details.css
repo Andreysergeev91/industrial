@@ -1,0 +1,19 @@
+.cards__item-button-details {
+    font-family: 'Overpass', Arial, sans-serif;
+    font-size: 18px;
+    line-height: normal;
+    width: 120px;
+    height: 48px;
+    color: white;
+    text-transform: uppercase;
+    border:3px solid #eec9a2;
+    background-color: inherit;
+    font-weight:400;
+    margin: 0;
+}
+
+.cards__item-button-details:hover {
+    opacity: 0.7;
+    transition: opacity 0.25s linear;
+    cursor: pointer;
+}

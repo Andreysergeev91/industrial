@@ -1,0 +1,10 @@
+.cards__item_theme_green {
+   background-color: #5eb8a5;
+   align-items: flex-end;
+   justify-content: flex-start;
+   background-image: url('../../../../Image/green.png');
+   background-position: left 100% bottom 72%;
+   background-size: initial;
+   padding-right: 30px;
+   text-align: right;
+}
